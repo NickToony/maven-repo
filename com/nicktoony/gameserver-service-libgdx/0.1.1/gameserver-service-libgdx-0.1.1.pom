@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.nicktoony</groupId>
   <artifactId>gameserver-service-libgdx</artifactId>
-  <version>0.1</version>
+  <version>0.1.1</version>
   <description>POM was created from install:install-file</description>
   <dependencies>
     <dependency>
@@ -15,7 +15,7 @@
 	<dependency>
 	  <groupId>com.nicktoony</groupId>
 	  <artifactId>gameserver-service-java</artifactId>
-	  <version>0.1</version>
+	  <version>0.1.1</version>
     </dependency>
   </dependencies>
 </project>
