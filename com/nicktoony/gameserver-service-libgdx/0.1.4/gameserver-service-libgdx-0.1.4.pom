@@ -15,7 +15,7 @@
 	<dependency>
 	  <groupId>com.nicktoony</groupId>
 	  <artifactId>gameserver-service-java</artifactId>
-	  <version>0.2</version>
+	  <version>0.2.0</version>
     </dependency>
   </dependencies>
 </project>
